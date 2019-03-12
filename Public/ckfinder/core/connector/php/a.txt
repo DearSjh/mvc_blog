@@ -1,0 +1,5 @@
+Symfony\Component\HttpFoundation\File\File Object
+(
+    [pathName:SplFileInfo:private] => C:\Windows\Temp\ckfA5F9.tmp
+    [fileName:SplFileInfo:private] => ckfA5F9.tmp
+)
