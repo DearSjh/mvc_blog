@@ -1,12 +1,13 @@
-Welcome,  @DearSjh!
+403/5000  
 
-This is a simple blog system built according to mvc logic when I first came into contact with mvc thoughts.
 
-App -- ——app project folder
-Frame --- packaged class folder
-Public --- imported external plugins and resource folders
-Index.php --- entry file
 
-Login against the wall
-Back-end system article, classification, addition, deletion, and modification
-Front page display query page
+这是一个简单的博客系统，是我第一次接触mvc思想时根据mvc逻辑构建的。
+
+
+
+App --- App项目文件夹框架---打包类文件夹Public ---导入外部插件和资源文件夹Index.php ---入口文件
+
+
+
+登录后端对墙系统文章，分类，添加，删除，修改首页显示查询页面
